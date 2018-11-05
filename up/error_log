@@ -1,0 +1,912 @@
+[15-Apr-2018 11:35:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 11:35:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 11:35:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 11:36:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 11:41:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 11:41:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ipmansul_ipman.cMembers' doesn't exist' in /home/ipmansul/public_html/admin/DB.php:38
+Stack trace:
+#0 /home/ipmansul/public_html/admin/cmembers.php(28): DB->getRows('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 38
+[15-Apr-2018 11:44:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:03:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:05:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:07:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:11:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:13:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxDeport.php(8): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 12:16:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000]: General error: 1364 Field 'picture' doesn't have a default value' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/deport.php(64): DB->insertRow('INSERT INTO dep...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 13:08:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-04-15 01:08:58pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 13:14:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-04-15 01:14:29pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[15-Apr-2018 13:16:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-04-15 01:16:12pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[02-May-2018 21:19:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-02 09:19:41pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[02-May-2018 21:21:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-02 09:21:37pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:24pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:32pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:35pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:38pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:42pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:45pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:49pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:56pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:45:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:45:58pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:04pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:05pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:08pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:12pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:20pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:24pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(34): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:54pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:46:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:46:59pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:02pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:05pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:08pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:12pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:15pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:19pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:22pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:25pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:28pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:31pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:34pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:37pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:40pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 04:47:44pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 16:47:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(34): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:08:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:08:07pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:08:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:08:29pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:08:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:08:43pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:09:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:09:07pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(35): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:12:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:12:41pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:12:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:12:50pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:13:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:13:37pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:15:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:15:14pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[10-May-2018 18:17:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-10 06:17:35pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[11-May-2018 12:14:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:26:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:26:10am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:29:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:29:25am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:33:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:33:47am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:35:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:35:45am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:42:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:42:41am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:59:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:59:03am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 11:59:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 11:59:32am' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 12:00:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 12:00:36pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 12:05:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 12:05:07pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 12:05:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 12:05:21pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 12:05:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 12:05:40pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[14-May-2018 12:07:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-14 12:07:08pm' for column 'update_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxprice.php(17): DB->insertRow('INSERT INTO pri...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[24-May-2018 11:13:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-24 11:13:31am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[24-May-2018 11:13:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-24 11:13:35am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[24-May-2018 11:13:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-24 11:13:53am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[24-May-2018 11:14:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-24 11:14:02am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[24-May-2018 11:14:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-05-24 11:14:07am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[13-Jul-2018 03:57:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-07-13 03:57:15am' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[28-Jul-2018 08:46:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'message' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[21-Aug-2018 20:52:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '2018-08-21 08:52:43pm' for column 'message_date' at row 1' in /home/ipmansul/public_html/admin/DB.php:62
+Stack trace:
+#0 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(12): DB->insertRow('INSERT INTO con...', Array)
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 62
+[25-Aug-2018 11:18:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ipmansul_ipman.cMembers' doesn't exist' in /home/ipmansul/public_html/admin/DB.php:38
+Stack trace:
+#0 /home/ipmansul/public_html/admin/cmembers.php(28): DB->getRows('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 38
+[03-Sep-2018 13:06:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancoder'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[03-Sep-2018 13:06:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancoder'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[04-Sep-2018 16:23:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[04-Sep-2018 16:23:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[05-Sep-2018 13:05:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[05-Sep-2018 13:05:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[06-Sep-2018 14:09:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[06-Sep-2018 14:09:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:34:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/price.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:35:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/address.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:37:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/home.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:39:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:40:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 16:41:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 18:09:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[07-Sep-2018 18:09:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 13:45:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 13:45:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:26:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/home.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:27:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:34:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:36:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/address.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:37:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/editDeport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[08-Sep-2018 19:37:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/price.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[09-Sep-2018 17:02:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[09-Sep-2018 17:02:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:13:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/address.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:14:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/editDeport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:20:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/price.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:23:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/home.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:24:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 06:38:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 13:58:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[10-Sep-2018 13:58:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:37:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:38:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/address.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:38:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/price.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:38:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/deport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:39:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/home.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 10:39:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/editDeport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 14:46:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[11-Sep-2018 14:46:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[12-Sep-2018 13:19:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[12-Sep-2018 13:19:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[13-Sep-2018 12:47:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[13-Sep-2018 12:47:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[14-Sep-2018 10:20:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/editDeport.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[14-Sep-2018 12:27:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[14-Sep-2018 12:27:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[15-Sep-2018 12:05:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[15-Sep-2018 12:05:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[15-Sep-2018 23:59:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/login.php(3): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[16-Sep-2018 12:07:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[16-Sep-2018 12:07:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[17-Sep-2018 11:58:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[17-Sep-2018 11:58:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[18-Sep-2018 21:35:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/activity.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[19-Sep-2018 12:07:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[19-Sep-2018 12:07:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[20-Sep-2018 09:59:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/activity.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[20-Sep-2018 12:14:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[20-Sep-2018 12:14:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[21-Sep-2018 12:42:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[21-Sep-2018 12:42:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[22-Sep-2018 12:27:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[22-Sep-2018 12:27:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[22-Sep-2018 16:36:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/activity.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[23-Sep-2018 12:18:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[23-Sep-2018 12:18:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[24-Sep-2018 12:18:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[24-Sep-2018 12:18:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[24-Sep-2018 16:35:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/head.php(2): require_once('/home/ipmansul/...')
+#2 /home/ipmansul/public_html/admin/activity.php(1): require_once('/home/ipmansul/...')
+#3 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[25-Sep-2018 12:10:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[25-Sep-2018 12:10:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'ipmansul'@'localhost' to database 'ipmansul_ipmancodes'' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/ajaxcontactMesssage.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[26-Sep-2018 15:34:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'ipmansul'@'localhost' (using password: YES)' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[26-Sep-2018 15:34:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'ipmansul'@'localhost' (using password: YES)' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[26-Sep-2018 15:34:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'ipmansul'@'localhost' (using password: YES)' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[26-Sep-2018 15:35:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'ipmansul'@'localhost' (using password: YES)' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
+[26-Sep-2018 15:35:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'ipmansul'@'localhost' (using password: YES)' in /home/ipmansul/public_html/admin/DB.php:12
+Stack trace:
+#0 /home/ipmansul/public_html/admin/functions.php(4): DB->__construct()
+#1 /home/ipmansul/public_html/admin/index.php(2): require_once('/home/ipmansul/...')
+#2 {main}
+  thrown in /home/ipmansul/public_html/admin/DB.php on line 12
